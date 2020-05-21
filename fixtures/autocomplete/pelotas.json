@@ -1,0 +1,15 @@
+{
+  "Version": 1,
+  "Key": "35733",
+  "Type": "City",
+  "Rank": 35,
+  "LocalizedName": "Pelotas",
+  "Country": {
+    "ID": "BR",
+    "LocalizedName": "Brasil"
+  },
+  "AdministrativeArea": {
+    "ID": "RS",
+    "LocalizedName": "Rio Grande do Sul"
+  }
+}
